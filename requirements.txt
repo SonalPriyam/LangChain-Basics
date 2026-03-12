@@ -1,0 +1,12 @@
+ipykernel
+langchain==0.2.16
+langchain_community
+pypdf
+langchain_core
+faiss-cpu
+python-dotenv
+langchain-huggingface
+sentence-transformers 
+huggingface_hub
+langchain_groq
+langchain-classic
